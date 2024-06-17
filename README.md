@@ -1,6 +1,6 @@
 # Digital Accessories Management System
 
-This project is a web-based e-commerce application developed in the MERN (MongoDB, Express.js, React.js, Node.js) stack. It includes features like a recommendation system and balance sheet functionality.
+Web-based e-commerce platform built with the power-packed MERN stack. Experience seamless shopping with advanced features like a smart recommendation system that suggests trending products and a detailed balance sheet for financial tracking. Enjoy real-time updates, secure user authentication, and a smooth, intuitive interface.
 
 ## Features
 
